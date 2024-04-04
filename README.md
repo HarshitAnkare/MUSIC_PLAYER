@@ -11,7 +11,4 @@ Adjust volume.
 Display song information including track name and duration.
 
 <h1>Requirements:</h1><br>
-Python 3.x |
-Tkinter (usually included with Python) |
-Pygame library (pip install pygame) |
-Mutagen library (pip install mutage) |
+Python 3.x | Tkinter (usually included with Python) | Pygame library (pip install pygame) | Mutagen library (pip install mutage) |
